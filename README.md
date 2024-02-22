@@ -8,6 +8,8 @@ I have a diverse background in computer science, with a strong foundation as a s
 
 I'm always excited to engage with fellow developers and technology enthusiasts!
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyashkgupta&show_icons=true&theme=radical&count_private=true)
+
 
 
 <!--
