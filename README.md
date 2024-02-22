@@ -8,7 +8,10 @@ I have a diverse background in computer science, with a strong foundation as a s
 
 I'm always excited to engage with fellow developers and technology enthusiasts!
 
+
 ![My GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=shreyashkgupta&include_orgs=true&role=OWNER,COLLABORATOR&show_icons=true&theme=radical&count_private=true)
+
+![My GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=shreyashkgupta&include_orgs=true&role=OWNER,COLLABORATOR&show_icons=true&theme=radical&count_private=true)
 
 <!--
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyashkgupta&show_icons=true&theme=radical&count_private=true)
