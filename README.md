@@ -11,7 +11,7 @@ Welcome to my GitHub Profile!
 
 ![My GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=shreyashkgupta&include_orgs=true&show_icons=true&theme=radical&count_private=true)
 
-![My GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=shreyashkgupta&include_orgs=true&role=OWNER,COLLABORATOR&show_icons=true&theme=radical&count_private=true)
+![My GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=shreyashkgupta&include_orgs=true&show_icons=true&theme=radical&count_private=true)
 
 <!--
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyashkgupta&show_icons=true&theme=radical&count_private=true)
