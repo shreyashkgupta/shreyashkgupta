@@ -10,6 +10,10 @@ I'm always excited to engage with fellow developers and technology enthusiasts!
 
 ![My GitHub stats](https://github-readme-stats-shreyashkguptas-projects.vercel.app/api?username=shreyashkgupta&include_orgs=true&role=OWNER,COLLABORATOR&show_icons=true&theme=radical&count_private=true)
 
+![My GitHub stats](https://github-readme-stats-nu-brown-70.vercel.app/api?username=shreyashkgupta&include_orgs=true&role=OWNER,COLLABORATOR&show_icons=true&theme=radical&count_private=true)
+
+
+
 <!--
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyashkgupta&show_icons=true&theme=radical&count_private=true)
 **shreyashkgupta/shreyashkgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
